@@ -38,6 +38,6 @@
   <a href="https://t.me/c5bomba" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://discordapp.com/users/c5bomba" target="_blank">
+  <a href="https://discord.com/users/522494379026415618" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
